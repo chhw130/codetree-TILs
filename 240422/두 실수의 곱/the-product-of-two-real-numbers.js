@@ -1,4 +1,5 @@
 const a = 5.26
 const b = 8.27
+const multi = a*b
 
-console.log(a*b.toFixed(2))
+console.log(multi.toFixed(3))
