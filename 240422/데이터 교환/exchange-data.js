@@ -6,6 +6,6 @@ b = a
 c = b
 a = c
 
-print(a)
-print(b)
-print(c)
+console.log(a)
+console.log(b)
+console.log(c)
